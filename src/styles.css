@@ -1,3 +1,10 @@
 h1 {
     color:blueviolet
 }
+
+.Selected {
+    background: #D3D3D3;
+    cursor: not-allowed;
+    pointer-events: none;
+    border: #D3D3D3;
+}
